@@ -9,6 +9,8 @@ date: 2020-05-22
 
 ## Articles (ordered by date)
 
+- [Understanding Zettelkasten — The Folgezettel Conundrum](https://medium.com/@ethomasv/the-folgezettel-conundrum-20b14dc986ec?sk=cf581a5466ceac12fe0ad722d5d4acec), Eva Thomas, added 2020
+
 - [Understanding Zettelkasten — What does it mean to communicate with the slip-box](https://medium.com/@ethomasv/understanding-zettelkasten-d0ca5bb1f80e?source=friends_link&sk=1823e7ca9d09c4a3549fe909df241d66), Eva Thomas, added 2020
 
 - [Wikipedia article](https://en.wikipedia.org/wiki/Zettelkasten), added 2020
